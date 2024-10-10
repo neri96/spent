@@ -1,0 +1,21 @@
+export const theme = {
+  background: "linear-gradient(to bottom, #E0F7FA, #B2EBF2)",
+  fiexPageHeight: "calc(100vh - 140px)",
+  darkBg: "#1a1a1a",
+  darkGray: "#333333",
+  softGray: "rgb(54, 69, 79)",
+  deepBlue: "rgba(69, 90, 100, .7)",
+  inputBg: "rgba(51, 51, 51, 0.7)",
+  neutral: "rgba(90, 155, 216, 0.5)",
+  success: "#008000",
+  danger: "#ff1a1a",
+  yellow: "#e6e600",
+  green: "#00ff00",
+  green2: "rgba(0, 77, 0, 0.5)",
+  popup: "rgba(50, 50, 50, 0.9)",
+  textColor: "#fff",
+  borderRadius: "7px",
+  boxShadow:
+    "rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px",
+  commonMargin: "10px",
+};
